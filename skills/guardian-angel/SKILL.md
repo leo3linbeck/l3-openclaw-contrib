@@ -1,6 +1,4 @@
-# Guardian Angel v2.0
-
-```yaml
+---
 name: guardian-angel
 version: 2.0.0
 summary: A moral conscience for AI assistants. Fast pattern-matching screens all actions, escalating to Thomistic analysis only when needed.
@@ -10,9 +8,9 @@ description: |
   only when specific patterns indicate moral risk. Grounded in Thomistic principles.
 author: OpenClaw Community
 tags: [ethics, catholic, thomistic, moral-theology, prudence]
-```
-
 ---
+
+# Guardian Angel v2.0
 
 ## Design Philosophy
 
