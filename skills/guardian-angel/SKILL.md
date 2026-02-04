@@ -3,6 +3,7 @@
 ```yaml
 name: guardian-angel
 version: 2.0.0
+summary: A moral conscience for AI assistants. Fast pattern-matching screens all actions, escalating to Thomistic analysis only when needed.
 description: |
   Moral evaluation system using a System-1/System-2 trigger architecture.
   A lightweight filter runs on all actions, escalating to deliberate analysis 
